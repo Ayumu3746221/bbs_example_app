@@ -1,3 +1,5 @@
 .vscord
 
 **.env
+bbs_ui/FireBaseConfig/firebaseConfig.tsx
+.DS_Store
